@@ -30,7 +30,7 @@ Standard Contribution
 
 ## Tests
 
-[[Video]([https://example.com/video-thumbnail.jpg](https://drive.google.com/file/d/1xNOcUak3KwlBxz0sKnV9NML62zU83xhM/view?usp=sharing))]
+[Video]([https://example.com/video-thumbnail.jpg](https://drive.google.com/file/d/1xNOcUak3KwlBxz0sKnV9NML62zU83xhM/view?usp=sharing))]
 
 
 ## Contact Info
